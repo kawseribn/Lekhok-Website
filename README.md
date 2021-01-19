@@ -1,1 +1,1 @@
-lekhok.netlify.app
+https://lekhok.netlify.app/
